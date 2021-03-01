@@ -2,7 +2,7 @@
 STEB - is a telegram exchange bot for currency exchange by provided URL-API. Created as test task.
 
 ## Test task
-This test task was not new and unique, and I have indeed found existing solutions. [For example](https://github.com/iii-xvi/tt-001).
+This test task was not new and unique (so be cautionary with those, who gives you this), and I have indeed found existing solutions. [For example](https://github.com/iii-xvi/tt-001).
 I quote this task as it was presented to me, so it will be possible to find this repository in Google:
 > Implement a small exchange rate telegram bot which does the following: Uses exchange rate data from this web service: exchangeratesapi.io or similar. Returns the latest exchange rates in a listview. USD should be used as base currency and converts currency from the list.
 > 
